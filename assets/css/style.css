@@ -1,0 +1,37 @@
+.nav_titulo {
+    font-family: 'Lobster', cursive;
+    font-size: 2.5rem;
+}
+
+.titulo {
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+}
+
+.subtitulo {
+    font-family: 'Cabin', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+hr {
+    border-top: 2px solid #373A3C;
+}
+
+.btn {
+    border-color: #DDDDDD;
+}
+
+.imagen {
+    width: 20%;
+}
+
+.footer {
+    background-color: #DC3545;
+    padding: 150px
+}
+
+.foote-2 {
+    background-color: #373A3C;
+    padding: 30px;
+}
